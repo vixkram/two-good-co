@@ -11,11 +11,10 @@ This project is a clone of https://twogood.com.au/ , aiming to replicate their d
 - HTML, CSS, JavaScript
 
 ## Demo
-
 https://vixkram.github.io/two-good-co
 
 
-# Contributing to TWO GOOD CO
+## Contributing to TWO GOOD CO
 
 🎉 Thank you for considering contributing to TWO GOOD CO! 🎉
 
@@ -25,11 +24,11 @@ We welcome contributions from the community to help make this project better. Wh
 
 ### Reporting Bugs
 
-If you encounter a bug or unexpected behavior, please [open a new issue](link-to-issues) on our GitHub repository. Make sure to include a detailed description of the issue, steps to reproduce it, and any relevant information about your environment.
+If you encounter a bug or unexpected behavior, please [open a new issue](https://github.com/vixkram/two-good-co/issues) on our GitHub repository. Make sure to include a detailed description of the issue, steps to reproduce it, and any relevant information about your environment.
 
 ### Requesting Features
 
-If you have a feature request, feel free to [open a new issue](link-to-issues) on our GitHub repository. Provide a clear description of the proposed feature and any additional context that might be helpful.
+If you have a feature request, feel free to [open a new issue](https://github.com/vixkram/two-good-co/issues) on our GitHub repository. Provide a clear description of the proposed feature and any additional context that might be helpful.
 
 ### Submitting Changes (Pull Requests)
 
@@ -40,7 +39,7 @@ If you want to contribute directly to the codebase, please follow these steps:
 3. Make your changes and ensure they align with the project's coding standards.
 4. Commit your changes: `git commit -m 'Add some feature'`.
 5. Push to the branch: `git push origin feature-name`.
-6. [Open a pull request]() with a clear title and description.
+6. [Open a pull request](https://github.com/vixkram/two-good-co/pulls) with a clear title and description.
 
 Happy coding! 🚀
 
