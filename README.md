@@ -6,10 +6,6 @@
 
 This project is a clone of https://twogood.com.au/ , aiming to replicate their design and functionality. It serves as a learning exercise and showcases my skills in HTML, CSS, JavaScript.
 
-## Technologies Used
-
-- HTML, CSS, JavaScript
-
 ## Demo
 https://vixkram.github.io/two-good-co
 
